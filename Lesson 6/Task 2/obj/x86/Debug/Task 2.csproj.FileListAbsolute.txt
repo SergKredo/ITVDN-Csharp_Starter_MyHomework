@@ -1,0 +1,10 @@
+C:\Users\Влад\Desktop\HomeWork Answers\HomeWork Answers\Lesson 6\Task 1\obj\x86\Debug\Task 1.exe
+C:\Users\Влад\Desktop\HomeWork Answers\HomeWork Answers\Lesson 6\Task 1\obj\x86\Debug\Task 1.pdb
+C:\Users\Влад\Desktop\HomeWork Answers\HomeWork Answers\Lesson 6\Task 1\bin\Debug\Task 1.exe
+C:\Users\Влад\Desktop\HomeWork Answers\HomeWork Answers\Lesson 6\Task 1\bin\Debug\Task 1.pdb
+C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\c-sharp-starter-homework-materials\C# Starter HomeWork Answers\Lesson 6\Task 2\bin\Debug\Task 1.exe
+C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\c-sharp-starter-homework-materials\C# Starter HomeWork Answers\Lesson 6\Task 2\bin\Debug\Task 1.pdb
+C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\c-sharp-starter-homework-materials\C# Starter HomeWork Answers\Lesson 6\Task 2\obj\x86\Debug\Task 2.csprojAssemblyReference.cache
+C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\c-sharp-starter-homework-materials\C# Starter HomeWork Answers\Lesson 6\Task 2\obj\x86\Debug\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\c-sharp-starter-homework-materials\C# Starter HomeWork Answers\Lesson 6\Task 2\obj\x86\Debug\Task 1.exe
+C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\c-sharp-starter-homework-materials\C# Starter HomeWork Answers\Lesson 6\Task 2\obj\x86\Debug\Task 1.pdb
