@@ -1,22 +1,31 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Addition_task_2
-{
-    class Program
-    {
-        static void Main()
-        {
-            //Создание и инициализация переменной логического типа
-            bool A = true, B = false;
+namespace Addition_task2
+{ // Используя теорему Де Моргана  нужно преобразовать исходное выражение A|B в эквивалентное выражение
+          class Program
+          {
+                    static void Main(string[] args)
+                    {
+                              bool A = true;
+                              bool B = false;
+                              bool C = false;
 
-            //Отображение результата логической операции ИЛИ для переменных A и B
-            Console.WriteLine("{0} || {1} = {2}", A, B, A || B);
+                              if (C = A || B)
+                              {
+                                        Console.WriteLine("Метод 1: {0} || {1} = {3} || {4} = {2} \n", 'A', 'B', C, A, B);
+                              }
+                              if (C = !(!A && !B))
+                              { Console.WriteLine("Метод 2 по теореме Де Моргана: {0} || {1} = !(!{0} && !{1}) = !(!{3} && !{4}) = {2}", 'A', 'B', C, A, B); }
 
-            //Отображение результата логической операции ОТРИЦАНИЯ для переменных A и B
-            Console.WriteLine("!(!{0} && !{1}) = {2}", A, B, !(!A & !B));
+                              Console.ReadKey();
 
-            // Delay.
-            Console.ReadKey();
-        }
-    }
+
+
+
+                    }
+          }
 }
