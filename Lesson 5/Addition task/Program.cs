@@ -1,48 +1,47 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace AdditionTask
-{
-    class Program
-    {
-                    /*static void Main()
+namespace Additional_task1
+{     //Степень двойки
+     class Program
+     {
+          static void Main(string[] args)
+          {
+               int a = 0;
+               Console.WriteLine("Введите пожалуйста любое число, для того чтобы узнать является ли оно степенью двойки:");
+               int b = Convert.ToInt32(Console.ReadLine());
+
+                
+                    a = b & (b - 1);
+
+                    /* 1000 0000   - 128     1000 0000   - 128
+                    &  0111 1111   - 127     0000 0001   - 1
+                    --------------------------------------------
+                       0000 0000   - 0       0111 1111   - 
+
+                                        Иначе
+
+                       1000 0001   - 129     1000 0001   - 129
+                    &  1000 0000   - 128     0000 0001   - 1
+                    --------------------------------------------
+                       1000 0000   - 128     1000 0000   - 128
+                    */
+
+                    
+
+                    if (a == 0)
                     {
-                        int s = 0;
-                        Console.WriteLine("Введите число для проверки:");
-                        int x = Convert.ToInt32(Console.ReadLine());
-
-                        /*Ниже представлен алгоритм определения является ли число степенью двойки. 
-                         Например: пользователь ввел число 8, в битовом варианте выглядит так
-                          00001000  //8
-                         &
-                          00000111  //7
-                          --------
-                          00000000  //s = 0  */
-                    /*s = x & (x - 1);
-
-                    if (s == 0)
-                    {
-                        Console.WriteLine("Число являеться степенью двойки.");
+                              Console.WriteLine("Число {0} является степенью двойки", b);
                     }
-                    else
-                    {
-                        Console.WriteLine("Число не являеться степенью двойки.");
-                    }
-
-                    // Delay.
+                    else { Console.WriteLine("Число {0} не является степенью двойки", b); }
+                              
                     Console.ReadKey();
-                } */
-                    static void Main(string[] args)
-                    {
-                              int a = Convert.ToInt32(Console.ReadLine());
-                              if (step(a)) Console.WriteLine("yes");
-                              else Console.WriteLine("No");
-                              Console.ReadKey();
-                    }
-                    public static bool step(int a)
-                    {
-                              if (a == 2) return true;
-                              else if (a % 2 == 0) return step(a / 2);
-                              else return false;
-                    }
+
+
+
           }
+     }
 }

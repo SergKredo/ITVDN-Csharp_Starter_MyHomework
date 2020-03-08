@@ -1,0 +1,14 @@
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson5\HOMEWORK_5\Additional_task1\bin\Debug\Additional_task1.exe.config
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson5\HOMEWORK_5\Additional_task1\bin\Debug\Additional_task1.exe
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson5\HOMEWORK_5\Additional_task1\bin\Debug\Additional_task1.pdb
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson5\HOMEWORK_5\Additional_task1\obj\Debug\Additional_task1.csprojAssemblyReference.cache
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson5\HOMEWORK_5\Additional_task1\obj\Debug\Additional_task1.csproj.CoreCompileInputs.cache
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson5\HOMEWORK_5\Additional_task1\obj\Debug\Additional_task1.exe
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson5\HOMEWORK_5\Additional_task1\obj\Debug\Additional_task1.pdb
+C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson5\HOMEWORK_5\Additional_task1\bin\Debug\Additional_task1.exe.config
+C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson5\HOMEWORK_5\Additional_task1\bin\Debug\Additional_task1.exe
+C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson5\HOMEWORK_5\Additional_task1\bin\Debug\Additional_task1.pdb
+C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson5\HOMEWORK_5\Additional_task1\obj\Debug\Additional_task1.csprojAssemblyReference.cache
+C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson5\HOMEWORK_5\Additional_task1\obj\Debug\Additional_task1.csproj.CoreCompileInputs.cache
+C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson5\HOMEWORK_5\Additional_task1\obj\Debug\Additional_task1.exe
+C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson5\HOMEWORK_5\Additional_task1\obj\Debug\Additional_task1.pdb
