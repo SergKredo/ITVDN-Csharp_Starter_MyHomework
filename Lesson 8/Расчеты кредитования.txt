@@ -1,0 +1,57 @@
+300*0.1+300 = 330  1мес€ц
+330*0,1+330 = 363 2 мес€ц
+363*0,1+ 363 = 399,3 3 мес€ц
+399,3*0,1+399,3 = 439,23 4 мес€ц
+439,23*0,1+439,23 = 483,153 5 мес€ц
+
+300-50 = 250*0.1+250= 275 1 мес€ц
+275-50= 225*0,1+225 = 247,5 2 мес€ц
+247,5 - 50 = 197,5*0,1+197,5 = 217,25 3 мес€ц
+
+25+22.5+19.75=67.25 гривен переплата за 3 мес€ца
+
+300-100 = 200*0,1+200 = 220 1мес€ц
+220-100 = 120*0,1+120 = 132 2мес€ц
+132-100 = 32*0,1+32 = 35,2 3 мес€ц
+35,2-100 = -64,83
+
+
+(result - obligatoryPaymenth) * interestMonth + (result - obligatoryPaymenth)= 0
+result*interestMonth - obligatoryPaymenth*interestMonth + result - obligatoryPaymenth= 0
+result*interestMonth + result = obligatoryPaymenth*interestMonth + obligatoryPaymenth
+result*interestMonth + result = obligatoryPaymenth*(interestMonth + 1)
+(result*interestMonth + result)/(interestMonth + 1) = obligatoryPaymenth
+
+(300*0.1+300)/1.1 = 
+
+
+
+300 под 10 процентов на 6 мес€цев. ќб€зательный платеж в мес€ц: ?
+
+300 - x = (300-x)*0.1+(300-x) = ((300-x)*0.1+(300-x))-x)
+(creditMoney-x)*interestMonth+(creditMoney-x)=0
+creditMoney*interestMonth - x*interestMonth + creditMoney - x = 0
+creditMoney*interestMonth + creditMoney = x*interestMonth + x
+creditMoney*(interestMonth + 1) = x*(interestMonth + 1)
+(creditMoney*(interestMonth + 1))/(interestMonth + 1) = x
+(300*(0.1+1))/(0.1+1) = 300
+
+
+300- 157= 143*0.1+143= 157.3 1 мес€ц
+157.3-157= 0.3*0,1+0.3 = 0.33 2 мес€ц
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

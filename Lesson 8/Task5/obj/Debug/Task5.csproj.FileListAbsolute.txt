@@ -1,0 +1,10 @@
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson8\Lesson8\Task5\bin\Debug\Task5.exe.config
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson8\Lesson8\Task5\bin\Debug\Task5.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson8\Lesson8\Task5\bin\Debug\Task5.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson8\Lesson8\Task5\obj\Debug\Task5.csprojAssemblyReference.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson8\Lesson8\Task5\obj\Debug\Task5.Form1.resources
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson8\Lesson8\Task5\obj\Debug\Task5.Properties.Resources.resources
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson8\Lesson8\Task5\obj\Debug\Task5.csproj.GenerateResource.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson8\Lesson8\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson8\Lesson8\Task5\obj\Debug\Task5.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson8\Lesson8\Task5\obj\Debug\Task5.pdb
