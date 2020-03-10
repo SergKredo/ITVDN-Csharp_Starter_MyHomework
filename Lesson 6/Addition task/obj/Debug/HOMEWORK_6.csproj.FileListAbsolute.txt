@@ -1,0 +1,7 @@
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\HOMEWORK_6\bin\Debug\HOMEWORK_6.exe.config
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\HOMEWORK_6\bin\Debug\HOMEWORK_6.exe
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\HOMEWORK_6\bin\Debug\HOMEWORK_6.pdb
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\HOMEWORK_6\obj\Debug\HOMEWORK_6.csprojAssemblyReference.cache
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\HOMEWORK_6\obj\Debug\HOMEWORK_6.csproj.CoreCompileInputs.cache
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\HOMEWORK_6\obj\Debug\HOMEWORK_6.exe
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\HOMEWORK_6\obj\Debug\HOMEWORK_6.pdb

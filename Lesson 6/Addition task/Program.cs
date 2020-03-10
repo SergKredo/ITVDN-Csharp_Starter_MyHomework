@@ -1,30 +1,42 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Lessons_6
-{
+namespace HOMEWORK_6
+            {   /*Используя Visual Studio, создайте проект по шаблону Console Application.
+            Создайте две целочисленные переменные и задайте им некоторые значения. Применяя технику
+            вложенных циклов, нарисуйте прямоугольник из звездочек. Используйте значения ранее созданных
+            переменных для указания высоты и ширины прямоугольника.*/
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            Console.WriteLine("Введите первое число:");
-            int x = Convert.ToInt32(Console.ReadLine()); //Считывание информации введенной из клавиатуры, и конвертирование ее в int
+            Console.WriteLine("Нарисуйте пожалуйста прямоугольник из звездочек с заданной шириной и высотой:\n");
 
-            Console.WriteLine("Введите второе число:");
-            int y = Convert.ToInt32(Console.ReadLine());
+            Again: // Метка повторения задания
+            Console.Write("Высота прямоугольника: ");
+            int heightPraymougolnika = Convert.ToInt32(Console.ReadLine());
 
-            //Использование цикла со счетчиком
-            for (int i = 0; i < x; i++)
+            Console.Write("Ширина прямоугольника: ");
+            int widhtPraymougolnika = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("\n");
+
+
+            for (int height = 0; height < heightPraymougolnika; height++)
             {
-                for (int j = 0; j < y; j++)
+                for (int width = 0; width < widhtPraymougolnika; width++)
                 {
                     Console.Write("*");
                 }
-
                 Console.WriteLine();
             }
 
-            // Delay.
-            Console.ReadKey();
+            Console.WriteLine("\n");
+            goto Again;
+            //Console.ReadKey();
         }
     }
 }
