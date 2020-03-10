@@ -12,3 +12,10 @@ C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\
 C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\Task3\bin\Debug\Task3.exe.config
 C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\Task3\bin\Debug\Task3.exe
 C:\Users\Serg\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\Task3\bin\Debug\Task3.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\Task3\bin\Debug\Task3.exe.config
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\Task3\bin\Debug\Task3.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\Task3\bin\Debug\Task3.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\Task3\obj\Debug\Task3.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson6\HOMEWORK_6\Task3\obj\Debug\Task3.pdb
