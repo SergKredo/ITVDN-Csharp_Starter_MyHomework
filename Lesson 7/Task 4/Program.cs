@@ -1,73 +1,76 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Task_4
+namespace Task4
 {
+    /*
+             Используя Visual Studio, создайте проект по шаблону Console Application.
+        Напишите метод, который будет определять:
+        1) является ли введенное число положительным или отрицательным.
+        2) Является ли оно простым (используйте технику перебора значений).
+        (Простое число – это натуральное число, которое делится на 1 и само на себя. Чтобы определить
+        простое число или нет, следует найти все его целые делители. Если делителей больше 2-х, значит оно не
+        простое.)
+        3) Делится ли на 2, 5, 3, 6, 9 без остатка.
+         */
     class Program
     {
-        static void Otric(int operand)
+        static double Calculatesigh(double a)
         {
-            //Битовая операция сдвига влево
-            operand = operand >> 31;
-            if (operand == -1)
-            {
-                Console.WriteLine("Число отрицательное");
-            }
+            if (a < 0)
+            { Console.WriteLine("Такое число является отрицательным!"); }
             else
-            {
-                Console.WriteLine("Число положительное");
+            { Console.WriteLine("Такое число является положительным!"); }
+            Console.Write("Данное число имеет несколько целых делителей: ");
+            if ((a / 1) == a && (a / a) == 1)
+            {   double b;
+                int sum = 0;
+                for (double i = 1; i > 0; i++)
+                {
+                    b = a / i;
+                    //Console.Write(b + "; ");
+                    if (b == 1)
+                    {
+                        //Console.WriteLine();
+                        break;
+                    }
+                }
+                for (int i = 1; i > 0; i++)
+                {
+                    b = a / i;
+                    double p = b;
+                    if (p == Convert.ToInt32(b))
+                    {for (int j = 1; j == 1; ++j)
+                        {
+                            sum += j;
+                            Console.Write(p + "; ");
+                        }
+                    }
+                    else { continue; };
+                    if (b == 1)
+                    {
+                        if (sum == 2)
+                        {
+                            Console.WriteLine("\nЧисло {0} имеет только два делителя и является простым!", a);
+                        }
+                        else { Console.WriteLine("\nЧисло {0} имеет больше двух делителей и является составным!", a); }
+                    break;
+                    }
+                }
+
             }
+            return a;
         }
-
-        static void Remainder(int operand)
+        static void Main(string[] args)
         {
-            //Проверка числа на возможность деления без остатка на 2, 5, 3, 6, 9 с помощью условного оператора.
-            if ((operand % 2) == 0 && (operand % 5) == 0 && (operand % 3) == 0 && (operand % 6) == 0 && (operand % 9) == 0)
-            {
-                Console.WriteLine("Число делиться без остатка на 2, 5, 3, 6, 9");
-            }
-            else
-            {
-                Console.WriteLine("Число не делиться без остатка на 2, 5, 3, 6, 9");
-            }
-        }
+            Console.Write("Введите пожалуйста любое число: ");
+            double a = Convert.ToDouble(Console.ReadLine());
+            double Method = Calculatesigh(a);
 
-        static void Simple(int operand)
-        {
-            int divider=2;   // Делитель.
-            int remainder; // Остаток от деления operand на divider.
 
-            do
-            {
-                //Запись остатка от деления в переменную remainder
-                remainder = operand % divider;
-
-                //Если число разделилось на делитель с остатком, увеличиваем делитель
-                if (remainder != 0)
-                    divider++;
-            }
-            while (remainder != 0); // Пока в результате деления остается остача
-
-            if (divider == operand)
-            {
-                Console.WriteLine("{0} - простое число", operand);
-            }
-            else
-            {
-                Console.WriteLine("{0} - не простое число", operand);
-            }
-        }
-
-        static void Main()
-        {
-            Console.Write("Введите число для проверки: ");
-            int operand = Convert.ToInt32(Console.ReadLine());
-
-            //Вызов методов для проверки числа на соответствие указанным требованиям.
-            Simple(operand);
-            Otric(operand);
-            Remainder(operand);
-
-            // Delay.
             Console.ReadKey();
         }
     }
