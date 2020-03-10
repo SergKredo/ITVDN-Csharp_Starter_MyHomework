@@ -1,33 +1,56 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Task_3
+namespace Task3
 {
+    /*
+    Используя Visual Studio, создайте проект по шаблону Console Application.
+    Напишите программу, которая будет выполнять конвертирование валют.
+    Пользователь вводит:
+    сумму денег в определенной валюте.
+    курс для конвертации в другую валюту.
+    Организуйте вывод результата операции конвертирования валюты на экран.  
+         */
     class Program
     {
-        static double Converter(double currency, double course)
+        static float ExchangeMoney(float one, float two)  // Конвертация валют
         {
-            /*То же, что
-             double rez = 0;
-             rez = currency * course;
-             return rez;  */
-
-            return currency * course;
+            return one * two;
         }
-
-        static void Main()
+        static float ExchangeMoneyTwo(float two)     // Обратная конвертация валют
         {
-            Console.Write("Введите сумму денег для конвертации: ");
-            double currency = Convert.ToDouble(Console.ReadLine());
+            return (1/two);
+        }
+        static void Main(string[] args)
+        {
+            Again: // Метка возврата
+            // Прямая конвертация валюты
+            Console.Write("Конвертирование валют из долларов в гривну."+"\n"+"Сумма конвертации в валюту: ");
+            float sumMoney = Convert.ToSingle(Console.ReadLine());
+            Console.Write("Курс валют: ");
+            float exchangeCurrency = Convert.ToSingle(Console.ReadLine());
 
-            Console.Write("Введите курс валюты для конвертации: ");
-            double course = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Результат операции: ");
+            float resultExchangeMoney = ExchangeMoney(sumMoney,exchangeCurrency);
+            Console.Write(resultExchangeMoney + " гривен."+ "\n\n");
 
-            //Вызов метода Converter внутри метода Console.WriteLine и передача ему двух аргументов
-            //(суму денег и курс валюты).
-            Console.WriteLine("Перевод суммы денег {0} по курсу {1} в сумму {2}",
-                currency, course, Converter(currency, course));
+            // Обратная конвертация валюты
+            Console.Write("Конвертирование валют из гривны в доллары." + "\n" + "Сумма конвертации в валюту: ");
+            float sumMoneyTwo = Convert.ToSingle(Console.ReadLine());
+            Console.Write("Курс валют: ");
+            float exchangeCurrencyTwo = ExchangeMoneyTwo(exchangeCurrency);
+            Console.WriteLine(exchangeCurrencyTwo);
 
-            // Delay.
+            Console.Write("Результат операции: ");
+            float resultExchangeMoneyTwo = ExchangeMoney(sumMoneyTwo, exchangeCurrencyTwo);
+            Console.WriteLine(resultExchangeMoneyTwo + " долларов."+"\n\n");
+            goto Again;  // Возврат в начало операций программы
+
+
+
             Console.ReadKey();
         }
     }
