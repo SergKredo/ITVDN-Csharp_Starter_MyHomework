@@ -1,0 +1,14 @@
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson9\Lesson9_homeworks\Additional1\bin\Debug\Additional1.exe.config
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson9\Lesson9_homeworks\Additional1\bin\Debug\Additional1.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson9\Lesson9_homeworks\Additional1\bin\Debug\Additional1.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson9\Lesson9_homeworks\Additional1\obj\Debug\Additional1.csprojAssemblyReference.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson9\Lesson9_homeworks\Additional1\obj\Debug\Additional1.csproj.CoreCompileInputs.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson9\Lesson9_homeworks\Additional1\obj\Debug\Additional1.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson9\Lesson9_homeworks\Additional1\obj\Debug\Additional1.pdb
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson9\Lesson9_homeworks\Additional1\bin\Debug\Additional1.exe.config
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson9\Lesson9_homeworks\Additional1\bin\Debug\Additional1.exe
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson9\Lesson9_homeworks\Additional1\bin\Debug\Additional1.pdb
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson9\Lesson9_homeworks\Additional1\obj\Debug\Additional1.csprojAssemblyReference.cache
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson9\Lesson9_homeworks\Additional1\obj\Debug\Additional1.csproj.CoreCompileInputs.cache
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson9\Lesson9_homeworks\Additional1\obj\Debug\Additional1.exe
+D:\Dropbox\Программирование на С#_ITVDN\HOMEWORKS\Homework_lesson9\Lesson9_homeworks\Additional1\obj\Debug\Additional1.pdb
